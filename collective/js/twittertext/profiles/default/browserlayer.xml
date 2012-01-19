@@ -1,0 +1,6 @@
+<layers>
+<!-- uncomment to activate
+    <layer name="collective.js.twittertext"
+           interface="collective.js.twittertext.interfaces.ILayer" />
+-->
+</layers>
