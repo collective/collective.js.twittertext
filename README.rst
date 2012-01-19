@@ -6,7 +6,7 @@ Add twitter-text.js_ to Plone javascript registry.
 This addon doesn't provide new feature.
 
 Version 1.4.14
-Licence: twitter-text.js_ is under `Apache Licence <http://www.apache.org/licenses/LICENSE-2.0>`
+Licence: twitter-text.js_ is under `Apache Licence <http://www.apache.org/licenses/LICENSE-2.0>`_
 
 About twitter-text
 ==================
