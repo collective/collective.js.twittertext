@@ -5,7 +5,7 @@ version = '1.0'
 
 setup(name='collective.js.twittertext',
       version=version,
-      description="Add twitter-text-js library to Plone's resource registry",
+      description="Add twitter-text.js library to Plone's resource registry",
       long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
